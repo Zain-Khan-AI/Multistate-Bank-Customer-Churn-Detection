@@ -4,9 +4,6 @@ venv/
 __pycache__/
 *.py[cod]
 
-# Exclude CSV dataset as requested
-*.csv
-Bank Customer Churn Prediction.csv
 
 # IDE & System files
 .vscode/
