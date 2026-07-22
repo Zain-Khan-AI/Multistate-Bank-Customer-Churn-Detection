@@ -94,7 +94,8 @@ streamlit run app.py
 ├── .gitignore                     # Config files & Dataset exclusions
 └── README.md                      # Project Documentation
 ```
-
+## 🌐 Live Demo
+https://multistate-bank-customer-churn-detection.streamlit.app/
 ---
 
 ## 💡 Key Business Insights & Recommendations
